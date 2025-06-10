@@ -1,0 +1,8 @@
+cd path/to/netflix-data-analysis 
+
+git init
+git add .
+git commit -m "Initial commit: Netflix analysis project uploaded"
+git branch -M main
+git remote add origin https://github.com/ayucrv/netflix-data-analysis.git
+git push -u origin main
